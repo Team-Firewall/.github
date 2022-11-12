@@ -19,5 +19,5 @@
 | desktop App | 변예준, 김진효 | tauri [https://tauri.app/ko/] | 데스크톱의 프론트를 담당합니다. |
 | server | 김성현 | AWS | 배포와 서비스를 위한 서버를 담당합니다. |
 | api | 임동주, 최근호 | rocket [https://rocket.rs/], Node.js| 프로젝트에 필요한 서비스를 구현합니다. |
-| dba | 김성현, 임동주 | MySql | 정보를 저장하기 위해 사용합니다. |
+| dba | 김성현,  | MySql | 정보를 저장하기 위해 사용합니다. |
 | Communication | All | Notion | 효율적인 협업을 위해 사용합니다. |
