@@ -6,7 +6,7 @@
 ## Member
 * 김진효 - (팀장), 프론트 및 총괄
 * 변예준 - 디자인, 프론트
-* 최근호 - 디자인, 백엔드 <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=square&logo=GitHub&logoColor=white"/></a>
+* 최근호 - 디자인, 백엔드 <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * 임동주 - 백엔드(api), 프론트
 * 김성현 - 인프라(aws)
 
