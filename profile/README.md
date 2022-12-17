@@ -4,11 +4,11 @@
 기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대채 가능한 정도의 프로그램 퀄리티를 목표로 합니다.
 ```
 ## Member
-* 김진효 - (팀장), 프론트 및 총괄
-* 변예준 - 디자인, 프론트
+* 김진효 - (팀장), 프론트 및 총괄 <a href="https://github.com/jinhyo-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 변예준 - 디자인, 프론트 <a href="https://github.com/yejun178" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * 최근호 - 디자인, 백엔드 <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 임동주 - 백엔드(api), 프론트
-* 김성현 - 인프라(aws)
+* 임동주 - 백엔드(api), 프론트 <a href="https://github.com/DocRAID" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 김성현 - 인프라(aws) <a href="https://github.com/HYUN-8265" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 ## To be used
 
