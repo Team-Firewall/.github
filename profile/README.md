@@ -20,3 +20,4 @@
 | Api | 임동주, 최근호 | <a><img src="https://img.shields.io/badge/ts-node-3178c6?style=flat-square&logo=ts-node&logoColor=white"/></a>, rocket [https://rocket.rs]| 프로젝트에 필요한 서비스를 구현합니다. |
 | DBA | 김성현  | <a><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> | 정보를 저장하기 위해 사용합니다. |
 | Communication | All | <a><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> | 보다 익숙한 환경에서의 효율적인 협업을 위해 사용합니다. |
+## 
