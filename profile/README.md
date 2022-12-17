@@ -3,7 +3,7 @@
 ```cpp
 기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대채 가능한 정도의 프로그램 퀄리티를 목표로 합니다.
 ```
-<a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Ionic&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a>
 ## Member
 * 김진효 - (팀장), 프론트 및 총괄
 * 변예준 - 디자인, 프론트
