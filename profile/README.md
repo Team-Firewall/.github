@@ -14,15 +14,18 @@
 
 | 분야 | 메이커 |  | 사용목적 |
 | ---------------- | ---------------- | -------------------------- | ---------------- |
-| Mobile  | 임동주 | <a><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a> [https://ionicframework.com/] | 모바일의 프론트를 담당합니다. |
-| Desktop App | 변예준, 김진효 | <a><img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/></a> [https://tauri.app/ko/] | 데스크톱의 프론트를 담당합니다. |
-| Server | 김성현 | <a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> | 배포와 서비스를 위한 서버를 담당합니다. |
-| Api | 임동주, 최근호 | <a><img src="https://img.shields.io/badge/ts-node-3178c6?style=flat-square&logo=ts-node&logoColor=white"/></a>, rocket [https://rocket.rs]| 프로젝트에 필요한 서비스를 구현합니다. |
-| DBA | 김성현  | <a><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> | 정보를 저장하기 위해 사용합니다. |
-| Communication | All | <a><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> | 보다 익숙한 환경에서의 효율적인 협업을 위해 사용합니다. |
+| Mobile  | 임동주 | <a href="https://ionicframework.com/"><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a> | 모바일의 프론트를 담당합니다. |
+| Desktop App | 변예준, 김진효 | <a href="https://tauri.app/ko/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/></a>  | 데스크톱의 프론트를 담당합니다. |
+| Server | 김성현 | <a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> | 배포와 서비스를 위한 서버를 담당합니다. |
+| Api | 임동주, 최근호 | <a href="https://www.npmjs.com/package/ts-node"><img src="https://img.shields.io/badge/ts-node-3178c6?style=flat-square&logo=ts-node&logoColor=white"/></a>, rocket [https://rocket.rs]| 프로젝트에 필요한 서비스를 구현합니다. |
+| DBA | 김성현  | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> | 정보를 저장하기 위해 사용합니다. |
+| Communication | All | <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> | 보다 익숙한 환경에서의 효율적인 협업을 위해 사용합니다. |
+
+## Skills
+<a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+
 ## Preview
 
 ### [Github.io 페이지](https://team-firewall.github.io/preview/index.html)
-
-## Skill
-<a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
