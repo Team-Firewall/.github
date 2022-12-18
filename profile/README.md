@@ -59,11 +59,22 @@
 #### 규정 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| test | test | test | test |
+| regulateId | INT | 규정 아이디 | NN |
+| checked | TINYINT | 상/벌점 구분 | NN |
+| regulate | VARCHAR | 규정 내용 | NN |
+| score | INT | 점수 | NN |
 #### 보호자 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| test | test | test | test |
+| parentsId | VARCHAR(20) | 학부모 아이디 | NN |
+| userId | INT | 자녀 아이디 | NN |
+| phone | VARCHAR(11) | 전화번호 | NN |
+#### 파일 테이블
+| Field | data type | explanation | properties |
+| ---------- | -------- | --------------- | -------- |
+| filename | VARCHAR(20) | 파일명 | NN |
+| datatype | BOOLEAN | 데이터타입 | NN |
+| created | DATE | 만들어진 시각 | NN |
 
 ## 사용자 수행 흐름도
 
