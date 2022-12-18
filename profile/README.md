@@ -49,8 +49,6 @@
   >
  + 웹페이지
 
-황혜영ㅋ
-
 ## Preview
 
 ### [Github.io 페이지](https://team-firewall.github.io/preview/index.html)
