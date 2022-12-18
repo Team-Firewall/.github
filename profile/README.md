@@ -24,3 +24,5 @@
 
 ### [Github.io 페이지](https://team-firewall.github.io/preview/index.html)
 
+## Skill
+<a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
