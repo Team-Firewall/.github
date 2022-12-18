@@ -96,6 +96,8 @@
 
 ## 사용자 수행 흐름도
 
+(와이어프레임)
+
 ## Preview
 
 ### [Github.io 페이지](https://team-firewall.github.io/preview/index.html)
