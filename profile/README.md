@@ -42,13 +42,18 @@
  + Ionic 프레임워크와 Tauri를 이용해 각각 웹앱과 앱으로 변환(11월 초 ~ 현재)
 
 ## 프로젝트 상세 소개
-### 레이아웃
-
-## 사용자 수행 흐름도
  + 모바일
  > 모바일 환경입니다. Ionic 프레임워크를 사용하였기 때문에 대부분의 기기에서 호환됩니다.
  + 웹페이지
  > 웹 환경입니다. Tauri를 사용해 보안성이 우수하고 안정성이 높습니다.
+
+### 데이터베이스 구조
+| Field | data type | explanation | properties |
+| ------ | ----------- | --------------- | -------- |
+| test | test | test | test |
+
+## 사용자 수행 흐름도
+
 ## Preview
 
 ### [Github.io 페이지](https://team-firewall.github.io/preview/index.html)
