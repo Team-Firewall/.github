@@ -52,15 +52,15 @@
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
 | test | test | test | test |
-#### 유저 테이블
+#### 상벌점 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
 | test | test | test | test |
-#### 유저 테이블
+#### 규정 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
 | test | test | test | test |
-#### 유저 테이블
+#### 보호자 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
 | test | test | test | test |
