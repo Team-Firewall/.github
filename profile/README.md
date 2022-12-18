@@ -55,7 +55,13 @@
 #### 상벌점 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| test | test | test | test |
+| pointId | INT Autoincrement | 상벌점 아이디 | NN |
+| userId | INT | 사용자 아이디 | NN |
+| regulateId | INT | 규정 아이디 | NN |
+| reason | VARCHAR | 세부 사항 | N |
+| issuer | VARCHAR | 발급자 | NN |
+| created | DATE | 생성날짜 | NN |
+| updated | DATE | 수정날짜 | N |
 #### 규정 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
@@ -66,7 +72,7 @@
 #### 보호자 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| parentsId | VARCHAR(20) | 학부모 아이디 | NN |
+| parentsId | INT Autoincrement | 학부모 아이디 | NN |
 | userId | INT | 자녀 아이디 | NN |
 | phone | VARCHAR(11) | 전화번호 | NN |
 #### 파일 테이블
