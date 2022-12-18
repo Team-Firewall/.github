@@ -48,6 +48,19 @@
  > 웹 환경입니다. Tauri를 사용해 보안성이 우수하고 안정성이 높습니다.
 
 ### 데이터베이스 구조
+#### 유저 테이블
+| Field | data type | explanation | properties |
+| ---------- | -------- | --------------- | -------- |
+| test | test | test | test |
+#### 유저 테이블
+| Field | data type | explanation | properties |
+| ---------- | -------- | --------------- | -------- |
+| test | test | test | test |
+#### 유저 테이블
+| Field | data type | explanation | properties |
+| ---------- | -------- | --------------- | -------- |
+| test | test | test | test |
+#### 유저 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
 | test | test | test | test |
