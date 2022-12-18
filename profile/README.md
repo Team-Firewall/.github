@@ -1,8 +1,8 @@
 <h2 align="middle">경북소프트웨어고등학교 2학년 2학기 캡스톤 프로젝트<br>상벌점 시스템 [ Team - Firewall ]</h2>
 
-```cpp
-기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대채 가능한 정도의 프로그램 퀄리티를 목표로 합니다.
-```
+#상벌점 시스템
+> 기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대채 가능한 정도의 퀄리티를 목표로 하여 경북 소프트웨어 고등학교만의 상벌점 시스템 구축을 목표로 합니다.
+
 ## Member
 * 김진효 - (팀장), 프론트 및 총괄 | <a href="https://github.com/jinhyo-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * 변예준 - 디자인, 프론트 | <a href="https://github.com/yejun178" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
