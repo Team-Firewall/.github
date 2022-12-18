@@ -1,7 +1,13 @@
 <h2 align="middle">경북소프트웨어고등학교 2학년 2학기 캡스톤 프로젝트<br>상벌점 시스템 [ Team - Firewall ]</h2>
 
 # 상벌점 시스템
-> 기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대채 가능한 정도의 퀄리티를 목표로 하여 경북 소프트웨어 고등학교만의 상벌점 시스템 구축을 목표로 합니다.
+> 기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대채 가능한 정도의 퀄리티로 경북 소프트웨어 고등학교만의 상벌점 시스템을 구축합니다.
+
+## 프로젝트 개요
+### 개발 동기
+학교 선생님께서 외부에서 돈을 주고 기존 상벌점 시스템을 사서 쓰고 있다고 하셨고 저희 학교만의 상벌점 시스템이 있으면 좋겠다 생각해서 진행하게 되었습니다.
+### 개발 목표
+데스크탑과 모바일 두 환경에서 모두 실행가능한 기존 상벌점 시스템보다 나은 환경을 목표로 합니다.
 
 ## Member
 * 김진효 - (팀장), 프론트 및 총괄 | <a href="https://github.com/jinhyo-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
@@ -29,6 +35,19 @@
 <a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></a>
+
+## 프로젝트 진행
+ + 프로젝트 구상과 팀원 역할 분배(2022년 7월 초 ~ 7월 말)
+ + 프론트 UI/UX 구현 및 백엔드 Restful API 개발(2022년 8월 초 ~ 11월 초)
+ + Ionic 프레임워크와 Tauri를 이용해 각각 웹앱과 앱으로 변환(11월 초 ~ 현재)
+
+## 프로젝트 상세 소개
+### 레이아웃
+
+## 사용자 수행 흐름도
+###모바일
+
+###
 
 ## Preview
 
