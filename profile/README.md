@@ -25,10 +25,10 @@
 <a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a><a href="https://ionicframework.com/"><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a>
-<a href="https://tauri.app/ko/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/></a>
-<a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
+<a href="https://tauri.app/ko/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge-square&logo=Tauri&logoColor=white"/></a>
+<a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></a>
 
 ## Preview
 
