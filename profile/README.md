@@ -19,7 +19,7 @@
 ## To be used
 
 | 분야 | 메이커 |  | 사용목적 |
-| ---------------- | ---------------- | -------------------------- | ---------------- |
+| ------------- | ---------------------- | -------------------------- | ---------------- |
 | Mobile  | 임동주 | <a href="https://ionicframework.com/"><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a> | 모바일의 프론트를 담당합니다. |
 | Desktop App | 변예준, 김진효 | <a href="https://tauri.app/ko/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/></a>  | 데스크톱의 프론트를 담당합니다. |
 | Server | 김성현 | <a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> | 배포와 서비스를 위한 서버를 담당합니다. |
