@@ -54,7 +54,7 @@
 #### 유저 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| userId | INT Autoincrement | 유저 아이디 | NN |
+| userId | INT Autoincrement | 사용자 아이디 | NN |
 | grade | INT | 학년 | N |
 | class | INT | 반 | N |
 | number | INT | 번호 | N |
