@@ -100,4 +100,4 @@
 
 ## Preview
 
-### [Github.io 페이지](https://team-firewall.github.io/preview/index.html)
+### [Github.io 페이지](https://team-firewall.github.io/)
