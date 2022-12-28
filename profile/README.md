@@ -45,6 +45,7 @@
 ## 프로젝트 상세 소개
  + 모바일
  ><img src="https://cdn.discordapp.com/attachments/999238854341046302/1057449356980146206/ezgif.com-gif-maker_1.gif" />
+ >
  > 모바일 환경으로 Ionic 프레임워크를 사용하였기 때문에 운영체제와 상관없이 호환됩니다.
  </br>
  + 웹페이지
