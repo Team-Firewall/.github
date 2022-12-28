@@ -48,7 +48,8 @@
  >
  > 모바일 환경으로 Ionic 프레임워크를 사용하였기 때문에 운영체제와 상관없이 호환됩니다.
  + 웹페이지
- <p><img src="https://cdn.discordapp.com/attachments/999238854341046302/1057448941433671680/ezgif.com-gif-maker.gif" /></p>
+ ><img src="https://cdn.discordapp.com/attachments/999238854341046302/1057448941433671680/ezgif.com-gif-maker.gif" />
+ >
  > 웹 환경으로 Tauri를 사용해 보안성이 우수하고 안정성이 높습니다.
 
 ### 데이터베이스 구조
