@@ -1,4 +1,4 @@
-<h2 align="middle">경북소프트웨어고등학교 2학년 2학기 캡스톤 프로젝트<br>상벌점 시스템 [ Team - Firewall ]</h2>
+<h2 align="middle">경북소프트웨어고등학교 상벌점 시스템 [ Team - Firewall ]</h2>
 
 # 상벌점 시스템
 > 기존의 상벌점 시스템을 리뉴얼 하는것을 목표로 두고 대체 가능한 정도의 퀄리티로 경북소프트웨어고등학교만의 상벌점 시스템을 구축합니다.
@@ -43,14 +43,6 @@
  + Ionic 프레임워크와 Tauri를 이용해 각각 웹앱과 앱으로 변환(11월 초 ~ 현재)
 
 ## 프로젝트 상세 소개
- + 모바일
- ><img src="https://cdn.discordapp.com/attachments/999238854341046302/1057449356980146206/ezgif.com-gif-maker_1.gif" />
- >
- > 모바일 환경으로 Ionic 프레임워크를 사용하였기 때문에 운영체제와 상관없이 호환됩니다.
- + 웹페이지
- ><img src="https://cdn.discordapp.com/attachments/999238854341046302/1057448941433671680/ezgif.com-gif-maker.gif" />
- >
- > 웹 환경으로 Tauri를 사용해 보안성이 우수하고 안정성이 높습니다.
 
 ### 데이터베이스 구조
 #### 유저 테이블
