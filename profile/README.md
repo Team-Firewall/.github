@@ -1,6 +1,10 @@
 <h2 align="middle">경북소프트웨어고등학교 상벌점 시스템 [ Team - Firewall ]</h2>
 
-# 현재 모든 repository는 private입니다.
+# 페이지 구성
+![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/de57745e-4a04-448a-8e7d-55045e15cb05)
+![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/5bb708dd-a4e5-4fbe-91be-1c247bf60d31)
+![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/8d93f018-6762-4d23-a920-d2c460d1585d)
+![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/0b01dcd7-2f37-4d27-8caf-6197b6c851cd)
 
 
 # 상벌점 시스템
