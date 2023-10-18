@@ -1,10 +1,18 @@
 <h2 align="middle">경북소프트웨어고등학교 상벌점 시스템 [ Team - Firewall ]</h2>
 
 # 페이지 구성
+
+## 모바일
 ![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/de57745e-4a04-448a-8e7d-55045e15cb05)
 ![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/5bb708dd-a4e5-4fbe-91be-1c247bf60d31)
 ![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/8d93f018-6762-4d23-a920-d2c460d1585d)
 ![unnamed](https://github.com/Team-Firewall/.github/assets/86733620/0b01dcd7-2f37-4d27-8caf-6197b6c851cd)
+
+## 데스크탑
+![Image 10-18-23 at 5 46 PM](https://github.com/Team-Firewall/.github/assets/86733620/24b3fde0-0bc2-43f2-ae6f-5b6939f349a4)
+![Image 10-18-23 at 5 43 PM](https://github.com/Team-Firewall/.github/assets/86733620/55f26e5c-399c-4f69-be7d-7ce1c6fecb45)
+![Image 10-18-23 at 5 45 PM](https://github.com/Team-Firewall/.github/assets/86733620/e3e1f8e4-92e4-4288-bb7d-db32c9e3b0cc)
+![Image 10-18-23 at 5 43 PM (1)](https://github.com/Team-Firewall/.github/assets/86733620/e05dca89-6b56-4377-bfed-0dfdb8b71939)
 
 
 # 상벌점 시스템
