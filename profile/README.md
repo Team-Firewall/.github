@@ -29,7 +29,7 @@
 * 변예준 - 디자인, 프론트 | <a href="https://github.com/yejun178" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * 최근호 - 디자인, 백엔드 | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 * 임동주 - 백엔드(api), 프론트 | <a href="https://github.com/DocRAID" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 김성현 - 인프라(aws), 백엔드 | <a href="https://github.com/HYUN-8265" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 김성현 - 인프라(aws), 백엔드 | <a href="https://github.com/hyun8265" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 ## To be used
 
